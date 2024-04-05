@@ -1,0 +1,13 @@
+Lowest point: 0
+Number of lowest point: 123
+
+Highest point: 712
+Number of highest point: 1
+
+Number of players has point > 600: 4
+Number of players has point in [500, 600): 7
+Number of players has point in [400, 500): 9
+Number of players has point in [300, 400): 18
+Number of players has point in [200, 300): 40
+Number of players has point in [100, 200): 85
+Number of players has point in [0, 100): 837

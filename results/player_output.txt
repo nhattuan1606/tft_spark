@@ -1,0 +1,140 @@
+Player: HnZ Maris#Maris - Point: 712
+Number of match: 100 - Placment: 3.61
+Number of match in top: 66 - In top rate: 66.0%
+Number of match top 1: 19 - Top 1 rate: 19.0%
+Top Units:
+Name: Kayle - Occurrence: 38 - Placement: 3.89
+Name: Riven - Occurrence: 36 - Placement: 3.89
+Name: Galio - Occurrence: 34 - Placement: 4.09
+Top Traits:
+Name: Bruiser - Occurrence: 67 - Placement: 3.85
+Name: Exalted - Occurrence: 60 - Placement: 3.53
+Name: Heavenly - Occurrence: 58 - Placement: 3.31
+
+
+Player: Dasno#VN2 - Point: 646
+Number of match: 100 - Placment: 3.83
+Number of match in top: 62 - In top rate: 62.0%
+Number of match top 1: 12 - Top 1 rate: 12.0%
+Top Units:
+Name: Kayle - Occurrence: 36 - Placement: 3.89
+Name: Riven - Occurrence: 34 - Placement: 3.74
+Name: Diana - Occurrence: 34 - Placement: 3.71
+Top Traits:
+Name: Exalted - Occurrence: 71 - Placement: 3.96
+Name: Bruiser - Occurrence: 63 - Placement: 3.81
+Name: Behemoth - Occurrence: 60 - Placement: 3.95
+
+
+Player: TTV OolongTime#VNM - Point: 610
+Number of match: 100 - Placment: 3.98
+Number of match in top: 59 - In top rate: 59.0%
+Number of match top 1: 16 - Top 1 rate: 16.0%
+Top Units:
+Name: Sett - Occurrence: 40 - Placement: 3.45
+Name: Ornn - Occurrence: 36 - Placement: 3.42
+Name: Galio - Occurrence: 30 - Placement: 4.07
+Top Traits:
+Name: Warden - Occurrence: 68 - Placement: 3.9
+Name: Behemoth - Occurrence: 68 - Placement: 3.87
+Name: Bruiser - Occurrence: 61 - Placement: 4.15
+
+
+Player: ramen tuesday#001 - Point: 610
+Number of match: 100 - Placment: 3.73
+Number of match in top: 65 - In top rate: 65.0%
+Number of match top 1: 18 - Top 1 rate: 18.0%
+Top Units:
+Name: Ornn - Occurrence: 45 - Placement: 3.56
+Name: Nautilus - Occurrence: 38 - Placement: 3.29
+Name: Yasuo - Occurrence: 35 - Placement: 3.37
+Top Traits:
+Name: Behemoth - Occurrence: 78 - Placement: 3.81
+Name: Exalted - Occurrence: 67 - Placement: 3.82
+Name: Warden - Occurrence: 65 - Placement: 3.8
+
+
+Player: KND Sammich#1001 - Point: 583
+Number of match: 100 - Placment: 4.13
+Number of match in top: 60 - In top rate: 60.0%
+Number of match top 1: 12 - Top 1 rate: 12.0%
+Top Units:
+Name: Sett - Occurrence: 35 - Placement: 4.14
+Name: Diana - Occurrence: 32 - Placement: 4.06
+Name: Wukong - Occurrence: 30 - Placement: 3.33
+Top Traits:
+Name: Exalted - Occurrence: 66 - Placement: 4.11
+Name: Arcanist - Occurrence: 66 - Placement: 4.24
+Name: Ghostly - Occurrence: 61 - Placement: 3.82
+
+
+Player: Em Chè Thần Tài#3007 - Point: 561
+Number of match: 100 - Placment: 4.07
+Number of match in top: 59 - In top rate: 59.0%
+Number of match top 1: 20 - Top 1 rate: 20.0%
+Top Units:
+Name: Diana - Occurrence: 35 - Placement: 4.29
+Name: Wukong - Occurrence: 34 - Placement: 3.56
+Name: Ornn - Occurrence: 34 - Placement: 4.47
+Top Traits:
+Name: Exalted - Occurrence: 69 - Placement: 4.17
+Name: Heavenly - Occurrence: 65 - Placement: 3.86
+Name: Behemoth - Occurrence: 65 - Placement: 4.15
+
+
+Player: PDT2010#VN2 - Point: 527
+Number of match: 100 - Placment: 3.6
+Number of match in top: 66 - In top rate: 66.0%
+Number of match top 1: 21 - Top 1 rate: 21.0%
+Top Units:
+Name: Sett - Occurrence: 49 - Placement: 3.39
+Name: Lissandra - Occurrence: 44 - Placement: 3.27
+Name: Udyr - Occurrence: 39 - Placement: 3.69
+Top Traits:
+Name: Warden - Occurrence: 74 - Placement: 3.72
+Name: Arcanist - Occurrence: 70 - Placement: 3.47
+Name: Behemoth - Occurrence: 69 - Placement: 3.84
+
+
+Player: Perfaketo#808 - Point: 516
+Number of match: 100 - Placment: 3.46
+Number of match in top: 70 - In top rate: 70.0%
+Number of match top 1: 24 - Top 1 rate: 24.0%
+Top Units:
+Name: Wukong - Occurrence: 57 - Placement: 3.18
+Name: Diana - Occurrence: 52 - Placement: 3.04
+Name: Rakan - Occurrence: 47 - Placement: 2.68
+Top Traits:
+Name: Behemoth - Occurrence: 79 - Placement: 3.53
+Name: Sage - Occurrence: 73 - Placement: 3.26
+Name: Heavenly - Occurrence: 70 - Placement: 3.39
+
+
+Player: buồn ngủ#0311 - Point: 514
+Number of match: 100 - Placment: 3.82
+Number of match in top: 63 - In top rate: 63.0%
+Number of match top 1: 24 - Top 1 rate: 24.0%
+Top Units:
+Name: Diana - Occurrence: 41 - Placement: 3.2
+Name: Soraka - Occurrence: 38 - Placement: 2.63
+Name: Riven - Occurrence: 38 - Placement: 3.05
+Top Traits:
+Name: Exalted - Occurrence: 66 - Placement: 3.86
+Name: Heavenly - Occurrence: 59 - Placement: 3.31
+Name: Bruiser - Occurrence: 58 - Placement: 3.57
+
+
+Player: KND k1an#2606 - Point: 507
+Number of match: 100 - Placment: 3.58
+Number of match in top: 70 - In top rate: 70.0%
+Number of match top 1: 16 - Top 1 rate: 16.0%
+Top Units:
+Name: Soraka - Occurrence: 37 - Placement: 3.51
+Name: Sett - Occurrence: 36 - Placement: 3.19
+Name: Rakan - Occurrence: 35 - Placement: 3.0
+Top Traits:
+Name: Exalted - Occurrence: 58 - Placement: 3.83
+Name: Heavenly - Occurrence: 57 - Placement: 3.53
+Name: Behemoth - Occurrence: 57 - Placement: 4.0
+
+

@@ -1,0 +1,131 @@
+Sort by occurrence:
+
+Name                Cost        Occurrence
+Kayle                0          58936
+Riven                2          58368
+Diana                3          57571
+Galio                4          55774
+Ornn                 4          54457
+Sett                 5          52881
+Wukong               5          52159
+Rakan                5          50115
+Soraka               3          45119
+Nautilus             4          43759
+Lee Sin              4          42970
+Hwei                 5          42963
+Udyr                 5          39426
+Morgana              4          38998
+Neeko                2          38738
+Zyra                 2          38105
+Irelia               5          36824
+Illaoi               3          36383
+Sylas                4          35516
+Azir                 5          35140
+Kayn                 4          34114
+Thresh               3          33196
+Tahm Kench           3          33079
+Janna                2          32725
+Lillia               4          31177
+Syndra               4          31115
+Sivir                1          30481
+Lissandra            5          30403
+Aphelios             3          25946
+Aatrox               2          25864
+Amumu                3          25583
+Zoe                  3          25075
+Kindred              2          24522
+Ashe                 4          23649
+Bard                 3          23478
+Annie                4          23273
+Alune                3          22664
+Ahri                 1          21402
+Kog'Maw              1          20020
+Yone                 3          19577
+Shen                 2          19555
+Yorick               2          18776
+Yasuo                1          18635
+Caitlyn              1          18363
+Kai'Sa               4          17387
+Garen                1          15826
+Qiyana               2          15803
+Cho'Gath             1          15803
+Malphite             1          14633
+Senna                2          13562
+Darius               1          12509
+Kha'Zix              1          12508
+Volibear             3          12059
+Lux                  2          12017
+Gnar                 2          11786
+Jax                  1          11665
+Rek'Sai              1          10295
+Tristana             3          9691
+Xayah                5          7727
+Teemo                2          7198
+Kobuko               1          3710
+Xayah & Rakan        5          0
+
+
+Sort by placement:
+
+Name                Cost        Placement        Occurrence
+Rakan                5            3.8                50115
+Wukong               5            3.89               52159
+Hwei                 5            3.89               42963
+Irelia               5            3.94               36824
+Azir                 5            3.96               35140
+Lissandra            5            3.96               30403
+Udyr                 5            4.02               39426
+Sett                 5            4.02               52881
+Xayah                5            4.12               7727
+Soraka               3            4.18               45119
+Lee Sin              4            4.34               42970
+Ornn                 4            4.38               54457
+Caitlyn              1            4.38               18363
+Kayle                0            4.39               58936
+Kindred              2            4.39               24522
+Janna                2            4.39               32725
+Bard                 3            4.4                23478
+Diana                3            4.41               57571
+Ahri                 1            4.42               21402
+Syndra               4            4.44               31115
+Lillia               4            4.44               31177
+Nautilus             4            4.44               43759
+Riven                2            4.44               58368
+Aphelios             3            4.45               25946
+Tahm Kench           3            4.46               33079
+Neeko                2            4.46               38738
+Yone                 3            4.48               19577
+Sylas                4            4.49               35516
+Kog'Maw              1            4.5                20020
+Galio                4            4.5                55774
+Yasuo                1            4.5                18635
+Darius               1            4.5                12509
+Sivir                1            4.51               30481
+Ashe                 4            4.51               23649
+Thresh               3            4.52               33196
+Alune                3            4.52               22664
+Senna                2            4.52               13562
+Cho'Gath             1            4.52               15803
+Shen                 2            4.52               19555
+Zoe                  3            4.53               25075
+Kayn                 4            4.56               34114
+Yorick               2            4.57               18776
+Qiyana               2            4.57               15803
+Malphite             1            4.58               14633
+Kha'Zix              1            4.6                12508
+Aatrox               2            4.61               25864
+Zyra                 2            4.61               38105
+Rek'Sai              1            4.62               10295
+Illaoi               3            4.62               36383
+Annie                4            4.64               23273
+Lux                  2            4.65               12017
+Morgana              4            4.65               38998
+Kai'Sa               4            4.67               17387
+Volibear             3            4.67               12059
+Garen                1            4.69               15826
+Gnar                 2            4.7                11786
+Amumu                3            4.7                25583
+Tristana             3            4.72               9691
+Jax                  1            4.72               11665
+Teemo                2            5.02               7198
+Kobuko               1            5.51               3710
